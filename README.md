@@ -35,4 +35,4 @@ Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidad
 
 ## 📫 Contacto
 
-[LinkedIn][(https://linkedin.com/in/kevinpg93])
+[LinkedIn](https://linkedin.com/in/kevinpg93)
