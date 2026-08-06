@@ -9,8 +9,8 @@ Actualmente estoy enfocado en ampliar mis conocimientos, desarrollar proyectos q
 💻 Tecnologías con las que trabajo
 HTML, CSS y JavaScript
 React
-Node.js
-Express
+PYthon
+ApisRest
 SQL / Bases de datos
 Git y GitHub
 📚 Actualmente
