@@ -1,22 +1,38 @@
-👋 ¡Hola! Soy Kevin
+# 👋 Hola, soy Kevin
 
-Soy un desarrollador Full Stack apasionado por crear aplicaciones web, aprender nuevas tecnologías y seguir mejorando cada día.
+### Full Stack Developer
 
-Actualmente estoy enfocado en ampliar mis conocimientos, desarrollar proyectos que me permitan crecer como profesional y afrontar nuevos retos. Me gusta escribir código limpio, resolver problemas y trabajar tanto en el frontend como en el backend.
+💻 Apasionado por el desarrollo web y con muchas ganas de comenzar mi carrera profesional en el sector IT.
 
-🚀 Lo que más me motiva es dar el salto al sector tecnológico y formar parte de un equipo donde pueda aportar, aprender de otros profesionales y seguir evolucionando como desarrollador.
+Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidades en frontend y backend.
 
-💻 Tecnologías con las que trabajo
-HTML, CSS y JavaScript
-React
-PYthon
-ApisRest
-SQL / Bases de datos
-Git y GitHub
-📚 Actualmente
-Construyendo proyectos para seguir ampliando mi portfolio.
-Aprendiendo nuevas herramientas y buenas prácticas de desarrollo.
-Buscando mi primera oportunidad como desarrollador Full Stack.
-📫 Contacto
+---
 
-Si quieres conocer mi trabajo o colaborar en algún proyecto, no dudes en contactar conmigo.
+## 🚀 Tecnologías
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌱 Actualmente
+
+- 📚 Aprendiendo nuevas tecnologías.
+- 🚀 Mejorando mi portfolio.
+- 💼 Buscando mi primera oportunidad como Full Stack Developer.
+
+---
+
+## 📫 Contacto
+
+[LinkedIn](https://linkedin.com/in/tu-perfil)
