@@ -11,7 +11,7 @@ Actualmente sigo aprendiendo y construyendo proyectos para mejorar mis habilidad
 ## 🚀 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,,mysql,git,github," />
 </p>
 
 ---
